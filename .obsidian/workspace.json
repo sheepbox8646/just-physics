@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "c8b32ee2e84c8a3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a10192519acf638b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f02a69f0d8618557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/chapter1/基础知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aadb552f7b7dcd88",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe934a96ed8f1413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d6f96e532418599",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47f9f80e1d131006",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "64a75db52774eb87",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e265580f5466cb0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4713ced1cd1ea4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0cb33f4cd171678",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/chapter1/基础知识.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be9c753a7e79e306",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/chapter1/基础知识.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84231e63c995a871",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "606eaffb6f0f308a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/chapter1/基础知识.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "f02a69f0d8618557",
+  "lastOpenFiles": [
+    "content/chapter1/imgs/Pasted image 20240515144107.png",
+    "content/chapter1/imgs/Pasted image 20240515143920.png",
+    "content/chapter1/imgs/Pasted image 20240515143556.png",
+    "content/chapter1/imgs/Pasted image 20240515143209.png",
+    "content/chapter1/imgs/Pasted image 20240515143016.png",
+    "content/chapter1/imgs",
+    "Pasted image 20240515142909.png",
+    "Pasted image 20240515142800.png",
+    "content/chapter1/基础知识.md",
+    "content/chapter1/index.md",
+    "content/index.md"
+  ]
+}
