@@ -30,7 +30,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             {
-              text: '基础知识',
+              text: '1.1 - 基础知识',
               link: '/content/chapter1/基础知识'
             }
           ]
