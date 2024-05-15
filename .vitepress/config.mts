@@ -40,6 +40,10 @@ export default defineConfig({
             {
               text: '1.3 - 匀变速直线运动',
               link: '/content/chapter1/匀变速直线运动'
+            },
+            {
+              text: '1.4 - 自由落体运动',
+              link: '/content/chapter1/自由落体运动'
             }
           ]
         }
