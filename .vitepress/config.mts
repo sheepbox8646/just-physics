@@ -36,6 +36,10 @@ export default defineConfig({
             {
               text: '1.2 - 位移，速度，时间，加速度的关系',
               link: '/content/chapter1/位移，速度，时间，加速度的关系'
+            },
+            {
+              text: '1.3 - 匀变速直线运动',
+              link: '/content/chapter1/匀变速直线运动'
             }
           ]
         }
