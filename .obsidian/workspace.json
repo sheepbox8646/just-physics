@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "content/chapter1/基础知识.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "f02a69f0d8618557",
   "lastOpenFiles": [
+    "content/chapter1/index.md",
+    "content/index.md",
+    "imgs/Pasted.md",
+    "content/chapter1/基础知识.md",
+    "imgs",
     "content/chapter1/imgs/Pasted image 20240515144107.png",
     "content/chapter1/imgs/Pasted image 20240515143920.png",
     "content/chapter1/imgs/Pasted image 20240515143556.png",
@@ -155,9 +160,6 @@
     "content/chapter1/imgs/Pasted image 20240515143016.png",
     "content/chapter1/imgs",
     "Pasted image 20240515142909.png",
-    "Pasted image 20240515142800.png",
-    "content/chapter1/基础知识.md",
-    "content/chapter1/index.md",
-    "content/index.md"
+    "Pasted image 20240515142800.png"
   ]
 }

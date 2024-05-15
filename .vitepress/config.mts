@@ -18,22 +18,25 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/sheepbox8646/just-physics' }
     ],
-    sidebar: [
-      {
-        text: '前言',
-        link: '/content'
-      },
-      {
-        text: 'Chapter1 运动学',
-        link: '/content/chapter1',
-        items: [
-          {
-            text: '基础知识',
-            link: '/content/chapter1/基础知识'
-          }
-        ]
-      }
-    ]
+    sidebar: {
+      '/content/': [
+        {
+          text: '前言',
+          link: '/content'
+        },
+        {
+          text: 'Chapter1 - 运动学',
+          link: '/content/chapter1',
+          collapsed: false,
+          items: [
+            {
+              text: '基础知识',
+              link: '/content/chapter1/基础知识'
+            }
+          ]
+        }
+      ]
+    }
   },
   markdown: {
     math: true

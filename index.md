@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /content
+      link: /content/
     - theme: alt
       text: 公式大全
-      link: /formulas
+      link: /formulas/
 
 # features:
 #   - title: Feature A
