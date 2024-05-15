@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /markdown-examples
+      link: /content
     - theme: alt
       text: 公式大全
       link: /formulas
