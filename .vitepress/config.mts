@@ -32,6 +32,10 @@ export default defineConfig({
             {
               text: '1.1 - 基础知识',
               link: '/content/chapter1/基础知识'
+            },
+            {
+              text: '1.2 - 位移，速度，时间，加速度的关系',
+              link: '/content/chapter1/位移，速度，时间，加速度的关系'
             }
           ]
         }
